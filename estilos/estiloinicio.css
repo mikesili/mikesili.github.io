@@ -1,0 +1,16 @@
+h3{
+  text-align: left;
+  float: right;
+  width: 750px;
+  color: cadetblue;
+  background-color:aliceblue;
+}
+.mn{
+    width: 550px;
+}
+.inicio{
+    background-color: aqua;
+}
+html{
+    background-color: cornsilk;
+}

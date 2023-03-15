@@ -1,0 +1,21 @@
+h3{
+    color: cadetblue;
+    background-color:azure;
+    border: 5px red solid;
+}
+h2{
+
+    color: aquamarine;
+    background-color:fuchsia;
+    border: 2px blue solid;
+    width: 70px;
+}
+.ol{
+    color: cornflowerblue;
+    background-color: azure;
+    border: 2px aqua solid;
+    width: 120px;
+}
+html{
+    background-color: cadetblue;
+}
